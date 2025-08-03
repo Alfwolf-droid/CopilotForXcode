@@ -1,0 +1,731 @@
+{
+  "Superliga": "Saudí League",
+  "Equipos": [
+    {
+      "Nombre": "Real Madrid",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "COURTOIS",
+          "Posición": "POR",
+          "OVR": 91,
+          "POT": 91,
+          "Edad": 33,
+          "Sueldo": 34000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LUNIN",
+          "Posición": "POR",
+          "OVR": 81,
+          "POT": 86,
+          "Edad": 26,
+          "Sueldo": 19000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RÜDIGER",
+          "Posición": "DFC",
+          "OVR": 87,
+          "POT": 87,
+          "Edad": 32,
+          "Sueldo": 13000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "MILITAO",
+          "Posición": "DFC/LD",
+          "OVR": 84,
+          "POT": 87,
+          "Edad": 27,
+          "Sueldo": 34000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "HUIJSEN",
+          "Posición": "DFC",
+          "OVR": 86,
+          "POT": 94,
+          "Edad": 20,
+          "Sueldo": 65000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "TCHOUAMENI",
+          "Posición": "MCD/MC/DFC",
+          "OVR": 87,
+          "POT": 92,
+          "Edad": 25,
+          "Sueldo": 75000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "BELLINGHAM",
+          "Posición": "MC/MCO/DC",
+          "OVR": 88,
+          "POT": 96,
+          "Edad": 22,
+          "Sueldo": 107000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "VALVERDE",
+          "Posición": "MC/ED/MCD/LD/MCO",
+          "OVR": 91,
+          "POT": 95,
+          "Edad": 27,
+          "Sueldo": 115000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GÜLER",
+          "Posición": "MC/MCO/ED",
+          "OVR": 84,
+          "POT": 96,
+          "Edad": 20,
+          "Sueldo": 55000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "VINI JR",
+          "Posición": "EI/DC",
+          "OVR": 89,
+          "POT": 96,
+          "Edad": 25,
+          "Sueldo": 100000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "MBAPPE",
+          "Posición": "EI/DC",
+          "OVR": 90,
+          "POT": 96,
+          "Edad": 26,
+          "Sueldo": 110000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "Courtois",
+        "TRENT",
+        "HUIJSEN",
+        "MILITAO",
+        "CARRERAS",
+        "TCHOUAMENI",
+        "VALVERDE",
+        "BELLINGHAM",
+        "GULER",
+        "VINI JR",
+        "MBAPPE"
+      ]
+    },
+    {
+      "Nombre": "Barcelona",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "TER STEGEN",
+          "Posición": "POR",
+          "OVR": 84,
+          "POT": 84,
+          "Edad": 33,
+          "Sueldo": 13000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "JOAN GARCIA",
+          "Posición": "POR",
+          "OVR": 84,
+          "POT": 90,
+          "Edad": 24,
+          "Sueldo": 30000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "KOUNDE",
+          "Posición": "LD/DFC",
+          "OVR": 87,
+          "POT": 90,
+          "Edad": 26,
+          "Sueldo": 53000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "CUBARSI",
+          "Posición": "DFC",
+          "OVR": 83,
+          "POT": 90,
+          "Edad": 18,
+          "Sueldo": 35000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "IÑIGO",
+          "Posición": "DFC",
+          "OVR": 85,
+          "POT": 85,
+          "Edad": 34,
+          "Sueldo": 5000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "BALDE",
+          "Posición": "LI",
+          "OVR": 86,
+          "POT": 91,
+          "Edad": 21,
+          "Sueldo": 61000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "DE JONG",
+          "Posición": "MCD/MC/DFC",
+          "OVR": 88,
+          "POT": 92,
+          "Edad": 28,
+          "Sueldo": 60000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "PEDRI",
+          "Posición": "MC/MCO",
+          "OVR": 88,
+          "POT": 96,
+          "Edad": 22,
+          "Sueldo": 80000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "FERMIN",
+          "Posición": "MC/EI/MCO",
+          "OVR": 83,
+          "POT": 91,
+          "Edad": 22,
+          "Sueldo": 50000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LAMINE YAMAL",
+          "Posición": "ED/MCO",
+          "OVR": 89,
+          "POT": 96,
+          "Edad": 18,
+          "Sueldo": 120000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RAPHINHA",
+          "Posición": "EI/MCO/ED",
+          "OVR": 88,
+          "POT": 90,
+          "Edad": 28,
+          "Sueldo": 100000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "JOAN GARCÍA",
+        "KOUNDE",
+        "CUBARSI",
+        "IÑIGO",
+        "BALDE",
+        "DE JONG",
+        "PEDRI",
+        "FERMIN",
+        "LAMINE YAMAL",
+        "RAPHINHA",
+        "LEWANDOWSKI"
+      ]
+    },
+    {
+      "Nombre": "Atlético de Madrid",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "OBLAK",
+          "Posición": "POR",
+          "OVR": 87,
+          "POT": 87,
+          "Edad": 32,
+          "Sueldo": 3350000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LLORENTE",
+          "Posición": "MC/LD/ED",
+          "OVR": 86,
+          "POT": 86,
+          "Edad": 30,
+          "Sueldo": 20000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LE NORMAND",
+          "Posición": "DFC",
+          "OVR": 86,
+          "POT": 86,
+          "Edad": 28,
+          "Sueldo": 40000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "HANCKO",
+          "Posición": "DFC/LI",
+          "OVR": 82,
+          "POT": 84,
+          "Edad": 27,
+          "Sueldo": 16500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LENGLET",
+          "Posición": "DFC",
+          "OVR": 83,
+          "POT": 83,
+          "Edad": 30,
+          "Sueldo": 7000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RUGGERI",
+          "Posición": "LI/DFC",
+          "OVR": 83,
+          "POT": 89,
+          "Edad": 23,
+          "Sueldo": 30000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "BARRIOS",
+          "Posición": "MC/MCD",
+          "OVR": 84,
+          "POT": 92,
+          "Edad": 22,
+          "Sueldo": 60000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GALLAGHER",
+          "Posición": "MC/MCD/EI",
+          "OVR": 84,
+          "POT": 90,
+          "Edad": 25,
+          "Sueldo": 40000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "BAENA",
+          "Posición": "MCO/EI/MC",
+          "OVR": 86,
+          "POT": 91,
+          "Edad": 24,
+          "Sueldo": 60000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SORLOTH",
+          "Posición": "DC",
+          "OVR": 85,
+          "POT": 85,
+          "Edad": 29,
+          "Sueldo": 2500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "JULIAN ALVAREZ",
+          "Posición": "DC/EI/MCO",
+          "OVR": 87,
+          "POT": 94,
+          "Edad": 25,
+          "Sueldo": 100000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "OBLAK",
+        "LLORENTE",
+        "LE NORMAND",
+        "HANCKO",
+        "LENGLET",
+        "RUGGERI",
+        "BARRIOS",
+        "GALLAGHER",
+        "BAENA",
+        "JULIAN ALVAREZ",
+        "SORLOTH"
+      ]
+    },
+    {
+      "Nombre": "Manchester City",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "EDERSON",
+          "Posición": "POR",
+          "OVR": 87,
+          "POT": 87,
+          "Edad": 31,
+          "Sueldo": 34000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RUBEN DIAS",
+          "Posición": "DFC",
+          "OVR": 88,
+          "POT": 91,
+          "Edad": 28,
+          "Sueldo": 60000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GVARDIOL",
+          "Posición": "DFC/LI",
+          "OVR": 89,
+          "POT": 92,
+          "Edad": 24,
+          "Sueldo": 80000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "KHUSANOV",
+          "Posición": "DFC/LD",
+          "OVR": 77,
+          "POT": 90,
+          "Edad": 20,
+          "Sueldo": 35000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RODRI",
+          "Posición": "MCD/MC",
+          "OVR": 88,
+          "POT": 91,
+          "Edad": 29,
+          "Sueldo": 75000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "REIJNDEERS",
+          "Posición": "MC/MCD/MCO",
+          "OVR": 87,
+          "POT": 90,
+          "Edad": 27,
+          "Sueldo": 63000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "DOKU",
+          "Posición": "EI/ED",
+          "OVR": 84,
+          "POT": 92,
+          "Edad": 23,
+          "Sueldo": 65000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SAVINHO",
+          "Posición": "ED/EI",
+          "OVR": 82,
+          "POT": 92,
+          "Edad": 21,
+          "Sueldo": 50000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "FODEN",
+          "Posición": "MCO/ED/EI",
+          "OVR": 86,
+          "POT": 91,
+          "Edad": 25,
+          "Sueldo": 76000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RAYAN CHERKI",
+          "Posición": "MCO/ED",
+          "OVR": 83,
+          "POT": 93,
+          "Edad": 21,
+          "Sueldo": 54500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "HAALAND",
+          "Posición": "DC",
+          "OVR": 89,
+          "POT": 95,
+          "Edad": 25,
+          "Sueldo": 10000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "EDERSON",
+        "GVARDIOL",
+        "RUBEN DIAS",
+        "KHUSANOV",
+        "RODRI",
+        "REIJNDEERS",
+        "DOKU",
+        "SAVINHO",
+        "FODEN",
+        "RAYAN CHERKI",
+        "HAALAND"
+      ]
+    },
+    {
+      "Nombre": "Liverpool",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "ALISSON",
+          "Posición": "POR",
+          "OVR": 87,
+          "POT": 87,
+          "Edad": 32,
+          "Sueldo": 30000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "MAMARDASHVILI",
+          "Posición": "POR",
+          "OVR": 85,
+          "POT": 91,
+          "Edad": 24,
+          "Sueldo": 35000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "FRIMPONG",
+          "Posición": "LD",
+          "OVR": 85,
+          "POT": 93,
+          "Edad": 24,
+          "Sueldo": 57500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "KONATÉ",
+          "Posición": "DFC",
+          "OVR": 87,
+          "POT": 92,
+          "Edad": 26,
+          "Sueldo": 52500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "KERKEZ",
+          "Posición": "LI",
+          "OVR": 82,
+          "POT": 85,
+          "Edad": 21,
+          "Sueldo": 32500000,
+          "Valor": null
+        },
+        {
+          "Nombre": "MAC ALLISTER",
+          "Posición": "MC/MCD",
+          "OVR": 85,
+          "POT": 91,
+          "Edad": 26,
+          "Sueldo": 62000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GRAVENBERCH",
+          "Posición": "MCD/MC",
+          "OVR": 84,
+          "POT": 88,
+          "Edad": 23,
+          "Sueldo": 54000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "WIRTZ",
+          "Posición": "MCO/ED/DC",
+          "OVR": 87,
+          "POT": 95,
+          "Edad": 22,
+          "Sueldo": 95000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SZOBOSZLAI",
+          "Posición": "MC/MCO/ED",
+          "OVR": 86,
+          "POT": 92,
+          "Edad": 24,
+          "Sueldo": 80000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SALAH",
+          "Posición": "ED",
+          "OVR": 89,
+          "POT": 89,
+          "Edad": 33,
+          "Sueldo": 70000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GAKPO",
+          "Posición": "EI",
+          "OVR": 84,
+          "POT": 86,
+          "Edad": 26,
+          "Sueldo": 35000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "ALISSON",
+        "FRIMPONG",
+        "KONATÉ",
+        "KERKEZ",
+        "MAC ALLISTER",
+        "GRAVENBERCH",
+        "WIRTZ",
+        "SZOBOSZLAI",
+        "SALAH",
+        "GAKPO",
+        "DARWIN NUÑEZ"
+      ]
+    },
+    {
+      "Nombre": "Arsenal",
+      "Presupuesto": {
+        "Transferencias": "200M",
+        "Salarios": "5M"
+      },
+      "Jugadores": [
+        {
+          "Nombre": "RAYA",
+          "Posición": "POR",
+          "OVR": 87,
+          "POT": 87,
+          "Edad": 29,
+          "Sueldo": 35000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "TIMBER",
+          "Posición": "DFC/LD",
+          "OVR": 86,
+          "POT": 92,
+          "Edad": 23,
+          "Sueldo": 70000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SALIBA",
+          "Posición": "DFC",
+          "OVR": 90,
+          "POT": 94,
+          "Edad": 24,
+          "Sueldo": 85000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GABRIEL",
+          "Posición": "DFC",
+          "OVR": 89,
+          "POT": 92,
+          "Edad": 27,
+          "Sueldo": 75000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "LEWIS SKELLY",
+          "Posición": "LI/MCD",
+          "OVR": 82,
+          "POT": 94,
+          "Edad": 18,
+          "Sueldo": 55000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "ZUBIMENDI",
+          "Posición": "MCD/MC",
+          "OVR": 87,
+          "POT": 90,
+          "Edad": 26,
+          "Sueldo": 60000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "RICE",
+          "Posición": "MC/MCD",
+          "OVR": 89,
+          "POT": 92,
+          "Edad": 26,
+          "Sueldo": 105000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "ODEGAARD",
+          "Posición": "MCO/MC",
+          "OVR": 88,
+          "POT": 91,
+          "Edad": 26,
+          "Sueldo": 85000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "SAKA",
+          "Posición": "ED",
+          "OVR": 88,
+          "POT": 94,
+          "Edad": 23,
+          "Sueldo": 85000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "MARTINELLI",
+          "Posición": "EI/ED",
+          "OVR": 84,
+          "POT": 90,
+          "Edad": 24,
+          "Sueldo": 50000000,
+          "Valor": null
+        },
+        {
+          "Nombre": "GYOKERES",
+          "Posición": "DC",
+          "OVR": 88,
+          "POT": 88,
+          "Edad": 27,
+          "Sueldo": 72000000,
+          "Valor": null
+        }
+      ],
+      "XI Titular": [
+        "RAYA",
+        "TIMBER",
+        "SALIBA",
+        "GABRIEL",
+        "LEWIS SKELLY",
+        "ZUBIMENDI",
+        "RICE",
+        "ODEGAARD",
+        "SAKA",
+        "MARTINELLI",
+        "GYOKERES"
+      ]
+    }
+  ]
+}
